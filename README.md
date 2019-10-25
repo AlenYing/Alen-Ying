@@ -1,3 +1,3 @@
-# Learning CPP
+# PAT PRACTICE
 
-My repository for learning cpp
+My repository for PAT
